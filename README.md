@@ -1,10 +1,10 @@
 # vendingmachine
-##Practice Vending Machine
+## Practice Vending Machine
 
-##frontend:
+## frontend:
 run `npm start` in vendingmachine/frontend
 
-##backend:
+## backend:
 run `PORT=3001 node bin/www` in vendingmachine/react-backend
 
 
